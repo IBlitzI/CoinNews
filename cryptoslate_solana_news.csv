@@ -1,0 +1,337 @@
+Solana Price (USDT),181.44
+Fetched At,2025-10-22T19:30:37.778403Z
+
+title,link,source,content,fetched_at
+Jupiter Launches Ultra V3 – The Ultimate Trading Engine for Solana,https://cryptoslate.com/press-releases/jupiter-launches-ultra-v3-the-ultimate-trading-engine-for-solana/,cryptoslate.com,"Jupiter's Ultra V3 revolutionizes Solana trading with cutting-edge technologies for unbeatable protection and execution.
+
+Disclaimer: This is a sponsored press release. Readers should conduct their own research prior to taking any actions related to the content mentioned in this article. Learn more ›
+
+Singapore, Singapore, October 20th, 2025, Chainwire
+
+Industry-leading execution delivers 34x better MEV protection, positive slippage, and 8-10x lower fees
+
+Jupiter , the leading liquidity aggregator on Solana, today announced the launch of Ultra V3, the most comprehensive trading engine in DeFi, featuring three exclusive technologies: Iris router, ShadowLane transaction landing, and Predictive Execution.
+
+Ultra V3 delivers unprecedented value across three critical dimensions.
+
+These architectural improvements translate into measurable results for users:
+
+“Most platforms show you optimistic quotes that don’t reflect on-chain reality,” said Siong, cofounder of Jupiter. “Ultra V3’s Predictive Execution gives you what you actually get at execution, not what looked good at quotation. Every swap lands exactly as promised – executed in the best way possible, at the best price, every time.”
+
+Exclusive Technologies Behind Ultra V3
+
+Iris Router – Jupiter’s new routing engine, exclusive to Ultra enables splits as precise as 0.01% and leverages sophisticated optimization algorithms. Combined with JupiterZ, Jupiter’s proprietary RFQ system facilitating ~$100M in daily zero-slippage volume, and meta aggregation across DFlow, Hashflow, and OKX, Ultra ensures users receive the most competitive price.
+
+ShadowLane – Jupiter’s entirely new in-house transaction landing engine achieves sub-second precision while maintaining complete privacy. With no external relays or order-flow sales, ShadowLane lands 3x more trades than alternative premium methods. Built by Jupiter’s newly formed RPC team led by Italo Casas with contributors to Yellowstone-gRPC, NFT DAS API, Lite-RPC, and Agave, ShadowLane represents a massive infrastructure advancement for Solana trading.
+
+Predictive Execution – Rather than showing theoretical quotes, Predictive Execution performs just-in-time simulations for every route, accurately predicts potential slippage, and intelligently prioritizes routes for optimal outcomes. The system includes Ultra Signaling, which enables Prop AMMs to quote up to 3bps tighter (50% better pricing) for verified non-toxic Jupiter Ultra users versus toxic flow like arbitrage bots.
+
+Real-Time Slippage Estimator (RTSE) – Developed over two years, RTSE automatically sets optimal slippage parameters by analyzing volume, historical volatility, and transaction patterns. Version 3 introduces reduced slippage settings while maintaining high success rates, automatic prioritization of slippage-protected routes, and increased volatility sensitivity for historically volatile tokens.
+
+Enhanced MEV Protection Efficiency
+
+While other providers increase sandwich attack risk by selling order flow to third-party MEV searchers, Ultra V3 does the opposite. By ensuring trades are never handed off to external providers for on-chain execution, Ultra minimizes exposure to toxic MEV. Though risk isn’t zero since validators still broadcast to chain leaders, Ultra brings it as close to zero as technically possible.
+
+Enhanced Feature Set
+
+Ultra V3 includes numerous improvements for edge cases that matter to real traders:
+
+Enhanced Gasless Support – Expanded to Token-2022 and memecoin-to-memecoin pairs with minimum trade sizes as low as $10. Anyone with any asset can now trade without holding SOL for gas.
+
+Just-In-Time Market Revival – Ultra V3 routes every token on Solana, including dead and forgotten markets, with no minimum liquidity threshold. The system dynamically re-indexes on demand, providing complete ecosystem coverage unavailable on legacy routers.
+
+Native Integration – Ultra V3 powers Jupiter’s three world-class interfaces: Web, which holds their full DeFi suite, Mobile, providing an enhanced mobile trading experience with native portfolio and PnL, and Desktop Wallet, Jupiter’s advanced browser extension with gasless trading and 10x lower fees. The same engine delivers consistent, seamless execution across all surfaces.
+
+Pro Tools Integration – Ultra V3 is deeply integrated with Jupiter’s professional trading suite including Terminal (token metrics command center), Screener (market discovery), Portfolio + PnL (total visibility), Alphascan (trending tokens and insights), and Analytics (transaction and trader data).
+
+Ultra API for Developers
+
+Developers can now access the same infrastructure powering Jupiter through Ultra API, with endpoints for balances, token search, and transfers. Jupiter handles all RPC complexity and infrastructure maintenance, allowing developers to focus on building applications while Jupiter manages execution.
+
+Transition from Legacy Jupiter
+
+Jupiter will focus development efforts on Ultra V3 and the new Iris router going forward. The company is rolling out Ultra API to provide partners with access to optimized routing solutions. and transaction landing infrastructure. Many meta routers currently using the sunsetted Jupiter Legacy API (Metis) will transition to Ultra API. Jupiter requests that platforms using Legacy API correctly label their integration to avoid misleading users about pricing sources.
+
+Built for Users
+
+“Ultra V3 is built for our community,” said Siong. “Use easily with zero configuration needed. Use without worries with the lowest fees and best protection. Use seamlessly alongside our Pro tools. Use natively on Mobile, Web, API, and Desktop. Everything we build is made with love by a team working to perfect your experience.”
+
+Ultra V3 is available now across all Jupiter platforms.
+
+About Jupiter
+
+Jupiter is the leading DeFi platform in crypto, offering best in class execution, value and user experience across the most comprehensive products across key segments. Jupiter serves millions of users through its world class web platform, mobile application, desktop wallet. Jupiter is also the most integrated decentralized API in the world, powering all.
+
+For more information, users can visit jup.ag and on its official X account.
+
+
+
+Mara Gonzalez M. Jupiter Exchange [email protected]
+
+CryptoSlate has partnered with Chainwire to deliver press releases distributed across numerous crypto media sites, including Cointelegraph, Decrypt and The Defiant.
+
+Chainwire has been used by over 800 brands and PR agencies worldwide.
+
+Disclaimer: This is a sponsored press release. CryptoSlate is not responsible or liable for any content, accuracy, quality, advertising, products or other materials associated with this press release. Readers and consumers should conduct their own research prior to taking any actions related to the company. CryptoSlate is not accountable, directly or indirectly, for any damage or loss incurred, alleged or otherwise, in connection to the use or reliance of any content, goods and/or services included in the press release. Please read our full dislaimer/disclosure statement here .",2025-10-22T19:30:30.581422Z
+Grayscale calls Solana ‘crypto’s financial bazaar’: Does the data back it up?,https://cryptoslate.com/grayscale-calls-solana-cryptos-financial-bazaar-does-the-data-back-it-up/,cryptoslate.com,"Grayscale , one of crypto’s largest institutional asset managers, published a research note on Oct. 10 calling Solana ( SOL ) “crypto’s financial bazaar.”
+
+This characterization goes well beyond the usual speed-and-throughput pitch. The report positions SOL as the category leader in users, transactions, and fees, arguing that its user experience, architectural moat via the Solana Virtual Machine, and application diversity create a durable foundation for valuation.
+
+It’s a significant shift in institutional tone. Grayscale is now giving Solana the same treatment it once reserved for Ethereum as “digital oil.”
+
+The thesis matters less for what Grayscale believes than for what it signals. When a major allocator aligned with the traditional finance ecosystem formalizes an investment case around a blockchain that was left for dead after FTX collapsed, other desks take notice.
+
+The question is whether the numbers support the narrative, or whether “financial bazaar” is still more metaphor than measurable reality.
+
+We stress-tested Grayscale’s claims against primary on-chain data, developer trackers, and technical benchmarks. The direction is right: Solana leads on several key metrics.
+
+However, the institutional case carries trade-offs that the report acknowledges only in passing, and a few headline figures deserve closer scrutiny.
+
+The report frames Solana as the standout among smart contract platforms on three core fundamentals: users, transaction volume, and fees.
+
+Grayscale cites roughly $425 million in monthly ecosystem fees, an annualized run rate above $5 billion, and points to $1.2 trillion in year-to-date DEX volume routed through Raydium and Jupiter.
+
+It highlights Jupiter as the largest DEX aggregator by volume in the industry, Pump.fun’s 2 million monthly active users, and Helium’s 1.5 million daily users as proof of application diversity.
+
+On the developer side, the report notes more than 1,000 full-time Solana developers and claims the ecosystem has grown faster than any other smart contract platform over the past two years.
+
+Speed and cost receive equal billing. Solana produces blocks every 400 milliseconds, with transactions considered final in roughly 12 to 13 seconds.
+
+Average transaction fees sit at $0.02, while median daily fees this year have averaged $0.001, one-tenth of one cent, thanks to local fee markets that isolate congestion to specific high-demand applications.
+
+A forthcoming upgrade called Alpenglow aims to reduce finality to 100 to 150 milliseconds.
+
+Grayscale also draws boundaries. It explicitly states that SOL “may be less suitable as a long-term store of value than Bitcoin or Ethereum ,” citing higher nominal supply inflation and centralization vectors.
+
+The report noted that Solana’s efficiency comes at the cost of comparatively high hardware and bandwidth requirements, with 99% of staked SOL in data centers and roughly 45% concentrated in the top two hosting providers.
+
+DeFiLlama shows Solana consistently running around 2.6 million active addresses in the last 24 hours and roughly 67 million on-chain transactions over the same window, in line with 2025’s typical pace.
+
+Artemis reporting from mid-2025 highlighted that Solana matched all other layer-1 and layer-2 networks combined on monthly active addresses, corroborating the “category leader” characterization on user count.
+
+Regarding fees, the “$425 million per month” figure requires context. Token Terminal’s chain-level fee data for Solana show tens of millions per month in several 2025 periods, around $30 million to $40 million in recent months.
+
+DeFiLlama shows current daily chain fees around $0.8 million to $1.6 million and app fees around $9 million to $13 million, together implying roughly $300 million to $450 million per month at the recent pace, depending on market intensity.
+
+Hundreds of millions per month during busy periods is plausible, but $425 million as a steady baseline overstates the run rate. The mix between chain fees and app fees also matters for apples-to-apples comparisons across networks.
+
+The report also addressed volumes. DeFiLlama’s chain dashboard shows Solana regularly posting multi-billion-dollar daily DEX volume and more than $40 billion in the last seven days, with multiple recent days topping Ethereum.
+
+Weekly, Solana topped Ethereum’s volumes for 33 out of 42 weeks this year.
+
+Jupiter currently ranks as the industry’s largest DEX aggregator by 30-day volume, roughly $22.3 billion versus $13 billion to $14 billion for 1inch, supporting Grayscale’s claim.
+
+For the active developer base, Electric Capital’s live tracker shows Solana with approximately 17,708 total developers as of mid-October 2025, with the full-time developer base up 29.1% year over year and 61.7% over two years.
+
+The ecosystem attracted 7,625 new developers in 2024, the most of any chain, and has added more than 11,500 new developers year to date through mid-October 2025.
+
+That places Solana second only to Ethereum in active developers, confirming the “large and growing” characterization.
+
+On finality and speed, Chainspect reports Solana slot time around 0.4 seconds and typical finality at roughly 12.8 seconds today, aligning with Grayscale’s 12- to 13-second claim.
+
+Additionally, Helius’ technical documentation on local fee markets explains how Solana sustains high throughput while keeping median user fees in fractions of a cent, even during congestion.
+
+The data directionally support the thesis that Solana leads in active users, often leads in DEX flow, hosts the largest aggregator, and ranks second in developers.
+
+The fee claim is accurate during hot markets but overstates the steady-state baseline.
+
+Institutions are warming to Solana because the user experience is now measurably fast, cheap, and more predictable.
+
+Local fee markets keep most congestion and priority fees localized to hot applications, so everyday transactions stay inexpensive even when activity spikes, something custodians and venues value when they batch flows or settle client orders.
+
+Chainspect measures roughly 0.4-second block times and 12.8-second finality today, and the Alpenglow upgrade targets sub-second finality, reducing settlement risk windows for market makers and brokers.
+
+Reliability has improved since the mainnet halt on Feb. 6, 2024, which lasted about five hours. Yet, data shows stronger uptime and throughput in subsequent months.
+
+Liquidity has deepened across both DEX and aggregator rails, which matters for execution and hedging.
+
+DeFiLlama shows Solana regularly at or near the top in chain-level DEX volumes. At the same time, Jupiter ranks as the largest DEX aggregator by 30-day volume, giving institutions a single router into pooled liquidity across Raydium, Orca, Meteora, and others.
+
+Token Terminal data also shows rising fee capture on Solana’s stack, chain plus apps, a proxy for sustained user demand that supports tighter spreads and deeper books.
+
+Post-FTX, the ecosystem has rebuilt credibility and infrastructure. The Artemis report already mentioned suggests that the user base and throughput weren’t just hype cycles.
+
+On the product side, a regulated-product pipeline has emerged, with multiple spot SOL exchange-traded funds (ETFs) applications pending before the US government shutdown paused SEC reviews, signaling mainstream issuers’ interest, even if the timing has slipped.
+
+Together, user traction and visible institutional wrappers lower the perceived idiosyncratic risk that kept some desks sidelined in 2023.
+
+Grayscale acknowledges centralization but only in outline. Running a high-quality validator still assumes server-class hardware, 12-plus cores, AVX2/512 instruction sets, NVMe arrays, and 256GB-plus RAM, which raises the barrier to entry and pushes operators toward data centers.
+
+Solana’s effective decentralization, measured by the Nakamoto coefficient, stood at 20 as of Apr. 16, 2025, down from a higher peak, meaning fewer entities would need to collude to censor transactions than in periods when the coefficient was larger.
+
+Client diversity remains in transition. The Agave and Jito clients still dominate Solana, while Firedancer is progressing but has only run in limited or non-voting configurations, with full rollout targeted for 2025.
+
+Until Firedancer and other clients are widely adopted, single-client risk persists.
+
+Store-of-value headwinds stem from issuance and fee policy. The current annual issuance ranges from 4% to 5%, with a disinflationary path toward a lower long-term target, higher than Bitcoin’s fixed schedule and capable of diluting holders absent offsetting burn.
+
+Following SIMD-0096, only 50% of the base fee is burned, and the priority-fee burn has been discontinued, weakening the burn counterweight when activity shifts toward priority fees.
+
+High throughput drives large ledgers, frequent snapshots, and upgrade cadence.
+
+Recommended setups include multiple high-TBW NVMe devices for accounts, ledgers, and snapshots, which raises ongoing operational costs compared to lighter chains.
+
+Grayscale’s Solana thesis, which posits that fast, cheap, and sticky applications yield sustainable network value, holds up on the fundamentals that matter most to institutions: active users, transaction throughput, developer pipeline, and liquidity depth.
+
+The “financial bazaar” framing is more than marketing, as Solana hosts a diverse and dense on-chain economy that rivals or exceeds its peers on multiple dimensions.
+
+Yet, the caveats matter. The $425 million monthly fee figure is a high-water mark, not a baseline. Centralization vectors, centered around hardware requirements, stake concentration, and client diversity, are real, even if they haven’t yet impaired network operations.
+
+And the store-of-value limitation Grayscale draws is a deliberate line. SOL is a utility and speculation vehicle, rather than a monetary asset in the sense of Bitcoin or Ethereum.
+
+The following milestones to watch are Alpenglow’s finality upgrade and Firedancer’s full deployment.
+
+If Solana can deliver sub-second finality while diversifying its client base, the institutional case strengthens. If hardware requirements continue to push validators into data centers and the Nakamoto coefficient drifts lower, the “bazaar” risks becoming a walled garden.
+
+Gino Matos is a law school graduate and a seasoned journalist with six years of experience in the crypto industry. His expertise primarily focuses on the Brazilian blockchain ecosystem and developments in decentralized finance (DeFi).
+
+CryptoSlate is a comprehensive and contextualized source for crypto news, insights, and data. Focusing on Bitcoin, macro, DeFi and AI.
+
+
+
+Daily digest of top crypto stories and market insights. Never miss out.
+
+Solana ecosystem updates, DeFi and NFT growth, and the latest on performance and network development.
+
+SEC and CFTC actions, state policy, ETFs, startups, and nationwide crypto market trends.
+
+In-depth market analysis and data-driven insights into blockchain projects, trends, and digital assets.
+
+Disclaimer: Our writers' opinions are solely their own and do not reflect the opinion of CryptoSlate. None of the information you read on CryptoSlate should be taken as investment advice, nor does CryptoSlate endorse any project that may be mentioned or linked to in this article. Buying and trading cryptocurrencies should be considered a high-risk activity. Please do your own due diligence before taking any action related to content within this article. Finally, CryptoSlate takes no responsibility should you lose money trading cryptocurrencies.",2025-10-22T19:30:32.141413Z
+Can Solana’s $11.6B staking reboot pull liquidity from Ethereum’s L2s?,https://cryptoslate.com/can-solanas-11-6b-staking-reboot-pull-liquidity-from-ethereums-l2s/,cryptoslate.com,"Nansen and Sanctum have launched a new liquid staking framework on Solana designed to make staking SOL as easy as swapping a token.
+
+The system, dubbed the “universal staking router”, links multiple liquid staking tokens (LSTs) such as mSOL, jitoSOL, and bSOL into one standardized route.
+
+Instead of users choosing individual validators or juggling different staking pools, Sanctum automatically directs deposits to the best-performing validator mix, while Nansen supplies the analytics layer that tracks these flows in real time.
+
+The launch marks a concrete attempt to standardize Solana’s fragmented staking market, which has grown large but disjointed. The chain hosts $11.6 billion in total value locked (TVL), with $15.5 billion in stablecoins and roughly $1.34 million in daily chain revenue.
+
+Yet staking liquidity remains split across distinct protocols: Jupiter ($3.44 b TVL), Kamino ($3.29 b), Jito ($2.94 b), and Sanctum ($2.53 b) each operate semi-isolated pools that limit capital reuse. Solana’s new staking backbone
+
+At its core, Sanctum’s router turns staking into a liquidity problem, not a governance one. By connecting pools under a shared standard, the framework allows users to mint or swap between LSTs through unified liquidity rather than fragmented order books.
+
+This change also makes Solana’s DeFi stack, DEXs like Raydium and Drift, perps, and lending markets more efficient, since LSTs can now move freely between them without custom integrations.
+
+Nansen’s role is to quantify this network. Its dashboards map validator performance, staking yield, and liquidity depth across the new rails, helping users identify optimal routes and enabling institutions to track flows with the same transparency they already have for Ethereum’s LST markets.
+
+This collaboration lands during a volatile phase for Solana DeFi. Across the top protocols, 7-day TVL losses range from -4 % to -27 %, with monthly drops above 10 % in several major pools.
+
+Even as the network posts 2 million daily active addresses and $4.5 million in daily inflows, fragmentation has weighed on staking growth. Sanctum’s router attempts to reverse that by consolidating liquidity into a single infrastructure layer.
+
+The big test is whether unified LSTs can compete with Ethereum’s mature ecosystem, where Lido’s stETH dominates with over $30 billion in deposits. Solana’s edge lies in speed and cost: swapping or minting an LST costs fractions of a cent, while Ethereum L2s still rely on complex bridging and higher fees.
+
+The new routing standard also makes Solana’s validator market more competitive: yields, not branding, determine where deposits flow.
+
+The yield math favors Solana. Liquid staking currently offers 5-8 % returns, versus 3-4 % on ETH, and easier liquidity routing lowers the opportunity cost of staying staked. If adoption accelerates, this could redirect part of the capital rotation away from Ethereum rollups toward Solana’s high-throughput base layer.
+
+Solana’s network economics are stabilizing even after a short-term DeFi cooldown. Its $197 price, paired with its $107 billion market cap, shows resilience despite TVL compression. Sanctum’s rollout could increase this if it reignites staking participation. Liquidity routing encourages more SOL to stay within on-chain derivatives instead of moving to centralized exchanges.
+
+That feedback loop (staking → liquidity → DeFi reuse) mirrors what turned Ethereum’s stETH into a structural pillar of on-chain finance. If Sanctum’s rails succeed, Solana could replicate that dynamic faster thanks to its unified execution layer.
+
+The key difference is that Solana’s validators and restaking programs are natively composable, allowing future features like instant unstaking or cross-LST lending without new token standards.
+
+Liquid staking has long been Solana’s missing piece. While the chain dominates NFT and DEX volumes, staking liquidity has lagged behind its throughput narrative.
+
+Sanctum and Nansen are trying to fix that by creating a data-informed, interoperable LST network that behaves like a protocol rather than a product.  There are still open questions. How will liquidity migrate between the older LSTs and Sanctum’s router?
+
+Will protocols integrate their routing layer at the contract level or rely on front-end partnerships? And what happens to MEV distribution once routes consolidate under a few large pools?
+
+For now, the numbers show promise. Even with market-wide contraction, staking-related protocols still make up nearly a fifth of Solana’s $11.6 billion TVL. Binance Staked SOL holds $1.95 billion, Bybit’s pool has $358 million, and Sanctum already has $2.53 billion within weeks of launch.
+
+If unified LST rails succeed in merging those flows, Solana could gain a structural liquidity moat that Ethereum’s L2s can’t easily replicate.
+
+The new rails are less about hype than infrastructure. In crypto, friction decides adoption, and Sanctum just removed one of Solana’s biggest sources of it.
+
+Armed with a classical education and an eye for news, Andjela dove head deep into the crypto industry in 2018 after spending years covering politics.
+
+Also known as ""Akiba,"" Liam Wright is the Editor-in-Chief at CryptoSlate and host of the SlateCast. He believes that decentralized technology has the potential to make widespread positive change.
+
+
+
+Join our X community for real-time crypto news and expert insights.
+
+Solana ecosystem updates, DeFi and NFT growth, and the latest on performance and network development.
+
+Everything about decentralized finance, from lending and yield farming to protocol innovation.
+
+Disclaimer: Our writers' opinions are solely their own and do not reflect the opinion of CryptoSlate. None of the information you read on CryptoSlate should be taken as investment advice, nor does CryptoSlate endorse any project that may be mentioned or linked to in this article. Buying and trading cryptocurrencies should be considered a high-risk activity. Please do your own due diligence before taking any action related to content within this article. Finally, CryptoSlate takes no responsibility should you lose money trading cryptocurrencies.",2025-10-22T19:30:33.748882Z
+New degen trenches? Prediction markets double volume to $4.3B as Solana memecoin trading slumps,https://cryptoslate.com/new-degen-trenches-prediction-markets-double-volume-to-4-3b-as-solana-memecoin-trading-slumps/,cryptoslate.com,"Prediction markets made a significant appearance in the spotlight in September, with monthly volume more than doubling to $4.28 billion, while memecoin trading on Solana cooled.
+
+The question now circling crypto’s risk-taking corners is whether these markets are becoming the new trenches for degens hunting edge and adrenaline.
+
+Across the prediction market category, turnover jumped 126.3% in September, compared to August’s $1.89 billion.
+
+According to data from a Dune dashboard and DefiLlama , the baton of dominance passed decisively to Kalshi, which surged from $874.38 million in August to $2.74 billion in September. The 214% leap translated into roughly 64% market share for the month.
+
+Polymarket , long the bellwether, also experienced significant growth. The platform experienced a 41.4% increase in monthly trading volume, reaching $1.42 billion. Yet, ceded the top slot with about a 33% share.
+
+The difference is stark compared to the other top two prediction markets by monthly volume. Limitless exploded to $102.72 million from $4.98 million (+1,962%), while Myriad rose to $4.44 million (+61.3%).
+
+Despite the market share contrast, the four helped prediction markets post their strongest month on record.
+
+The sector’s participation can also see the growth of prediction markets in mainstream culture. A Sept. 24 episode on South Park featured prediction markets as the main topic, name-dropping Kalshi and Polymarket.
+
+The rotation matters because the other favored arena for high-beta speculation lost steam. Solana memecoin trading slumped 38% month over month to $19 billion in September, down from nearly $31 billion in August, according to Blockworks data .
+
+However, even after the pullback, the memecoin complex still dwarfs prediction markets. September memecoin volume on Solana was over four times larger, meaning prediction markets represented roughly 22% of that activity.
+
+Traders craving fast-moving, binary payoffs may increasingly find them in election odds, macro prints, sports, and pop-culture markets. These venues that feel like perps with headlines for funding.
+
+The structural appeal is characterized by continuous pricing, cleaner catalysts, and fewer rug conditions compared to the average memecoin.
+
+But the ceiling hasn’t changed yet. To rival memecoins, prediction markets must sustain growth during quieter news cycles, deepen liquidity beyond marquee contracts, and continue onboarding retail users at a pace that does not compromise market quality.
+
+For now, September reads like a regime test. Memecoins cooled, prediction markets soared, and Kalshi seized the crown from Polymarket.
+
+If that mix persists into the fourth quarter, degens may keep digging their trenches where the odds are posted and the narrative never sleeps.
+
+Gino Matos is a law school graduate and a seasoned journalist with six years of experience in the crypto industry. His expertise primarily focuses on the Brazilian blockchain ecosystem and developments in decentralized finance (DeFi).
+
+AJ, a passionate journalist since Yemen's 2011 Arab Spring, has honed his skills worldwide for over a decade. Specializing in financial journalism, he now focuses on crypto reporting.
+
+
+
+Follow us on X for your essential dose of daily crypto news and deep dives.
+
+Solana ecosystem updates, DeFi and NFT growth, and the latest on performance and network development.
+
+Tracking the latest trends, communities, and valuations behind viral memecoin movements.
+
+Disclaimer: Our writers' opinions are solely their own and do not reflect the opinion of CryptoSlate. None of the information you read on CryptoSlate should be taken as investment advice, nor does CryptoSlate endorse any project that may be mentioned or linked to in this article. Buying and trading cryptocurrencies should be considered a high-risk activity. Please do your own due diligence before taking any action related to content within this article. Finally, CryptoSlate takes no responsibility should you lose money trading cryptocurrencies.",2025-10-22T19:30:35.220726Z
+"With $1B in open interest, XRP and Solana are the new institutional trades",https://cryptoslate.com/with-1b-in-cme-open-interest-are-xrp-and-solana-the-new-institutional-trades/,cryptoslate.com,"For years, CME’s crypto business was a one-asset story: Bitcoin , backed by its liquid futures market, and since 2022, a growing options market. The introduction of Ethereum futures diversified its crypto offering, but it still remained tied to the market’s largest asset.
+
+That narrative changed when it launched XRP and Solana futures. In just months, the open interest for SOL and XRP futures passed $1 billion. Solana hit the milestone in just five months , faster than it took both Bitcoin and Ethereum to reach the same mark when they launched.
+
+That number matters. $1 billion in OI is the informal threshold where institutions start taking an asset seriously in derivatives. Below that, futures can be too thin to support basis trades, structured notes, or the hedges asset managers require. Above it, the contract starts to function like real financial plumbing. The speed at which Solana and XRP have crossed this line shows real institutional demand, not just speculative activity.
+
+The flows also show how the “regulated stack” is broadening. Until recently, traders looking to short, lever up, or run basis strategies in anything beyond BTC and ETH were pushed offshore to Binance or OKX. CME’s push into Solana and XRP pulls some of that business into its clearinghouse, where collateral rules and accounting treatment are friendlier to funds.
+
+The more liquidity migrates to CME, the easier it becomes for traditional desks to justify crypto allocations.
+
+With OI swelling, the infrastructure is now in place for CME to list Solana and XRP options just as it did with Bitcoin and Ethereum. That’s where structured products come to life: dealers can start quoting covered calls, asset managers can hedge volatility, and liquidity providers can run the same playbook that’s become standard in BTC/ETH.
+
+It’s no accident that the conversation around Solana futures ETFs is running in parallel: derivatives depth is a prerequisite for ETF approval.
+
+Solana’s climb to $1 billion OI took barely five months, outpacing the early trajectories of Bitcoin and Ethereum futures. For context, Ethereum futures needed more than a year to cross that bar after CME listed them in 2021.
+
+Some of that is cyclical. Crypto is bigger now, with ETFs and institutional rails already in place. But part of it is specific: funds are clearly seeking exposure to Solana and XRP as distinct trades, not just as “altcoin beta.”
+
+Solana’s throughput and huge DeFi/consumer stack make it a clear bet on “Ethereum-style” activity at a faster clip. For XRP, it’s the regulatory clarity after Ripple’s courtroom wins and the token’s legacy role in cross-border settlement. Both assets now have credible narratives that can be expressed in size through CME.
+
+What this really signals is that the CME crypto mix is shifting from a duopoly to a portfolio. BTC and ETH still dominate, but the rise of XRP and Solana futures means that Q4 could be the first time traditional desks are genuinely running multi-asset crypto books inside a US-regulated clearinghouse.
+
+If options follow, that portfolio expands into structured products, risk-transfer trades, and eventually ETF fuel.
+
+Armed with a classical education and an eye for news, Andjela dove head deep into the crypto industry in 2018 after spending years covering politics.
+
+Also known as ""Akiba,"" Liam Wright is the Editor-in-Chief at CryptoSlate and host of the SlateCast. He believes that decentralized technology has the potential to make widespread positive change.
+
+
+
+Get the latest crypto news and expert insights. Delivered to you daily.
+
+Solana ecosystem updates, DeFi and NFT growth, and the latest on performance and network development.
+
+Coverage of crypto derivatives, options, and futures driving market sophistication.
+
+Disclaimer: Our writers' opinions are solely their own and do not reflect the opinion of CryptoSlate. None of the information you read on CryptoSlate should be taken as investment advice, nor does CryptoSlate endorse any project that may be mentioned or linked to in this article. Buying and trading cryptocurrencies should be considered a high-risk activity. Please do your own due diligence before taking any action related to content within this article. Finally, CryptoSlate takes no responsibility should you lose money trading cryptocurrencies.",2025-10-22T19:30:36.771741Z
